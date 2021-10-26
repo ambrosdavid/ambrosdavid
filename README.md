@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ambrosdavid
 - 👀 I’m interested in Computer Science and programming!
 - 🌱 I’m currently studying at Ca'Foscari university in Venice/Italy
-- 💞️ I’m looking to collaborate on lots of projects
 - 📫 You can reache me at ambrosdavid99@gmail.com
 
 <!---
