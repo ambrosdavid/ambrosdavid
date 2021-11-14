@@ -7,7 +7,7 @@
 
 - ✨ [david / Dijkstra-Simulator](https://github.com/ambrosdavid/Dijkstra-Simulator)
 - ### Currently working on:
-- 
+
 - ☀️ [david / Gym-Project](https://github.com/ambrosdavid/Gym-Project-Backend)
 
 <!---
