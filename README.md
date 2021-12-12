@@ -5,7 +5,7 @@
 ### Here are my latest personal project I worked on:
 - ✨ [david / Dijkstra-Simulator](https://github.com/ambrosdavid/Dijkstra-Simulator)
 ### Currently working on:
-- ☀️ [david / Gym-Project](https://github.com/ambrosdavid/Gym-App) 
+- ☀️ [david / GymApp](https://github.com/ambrosdavid/GymApp) 
 
 <!---
 ambrosdavid/ambrosdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
