@@ -4,8 +4,9 @@
 - 📫 You can reach me at ambrosdavid99@gmail.com
 ### Here are my latest personal project I worked on:
 - ✨ [david / Dijkstra-Simulator](https://github.com/ambrosdavid/Dijkstra-Simulator)
-### Currently working on:
 - ☀️ [david / GymApp](https://github.com/ambrosdavid/GymApp) 
+### Currently working on:
+- Secret project :D
 
 <!---
 ambrosdavid/ambrosdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
