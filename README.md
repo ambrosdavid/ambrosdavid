@@ -6,7 +6,8 @@
 - ✨ [david / Dijkstra-Simulator](https://github.com/ambrosdavid/Dijkstra-Simulator)
 - ☀️ [david / GymApp](https://github.com/ambrosdavid/GymApp) 
 ### Currently working on:
-- Secret project :D
+- Secret project with secret repositories :D but here is a very little sneak peek
+![sneak peek](https://github.com/ambrosdavid/ambrosdavid/blob/main/curProjSnap.jpg)
 
 <!---
 ambrosdavid/ambrosdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
