@@ -7,7 +7,7 @@
 - ☀️ [david / GymApp](https://github.com/ambrosdavid/GymApp) 
 ### Currently working on:
 - Secret project with secret repositories :D but here is a very little sneak peek:
-    <img src="curProjSnap.jpg" style= "width:50%" alt="missing img"/>
+    <img src="AWS schema sneak.PNG" style= "width:60%" alt="missing img"/>
 
 <!---
 ambrosdavid/ambrosdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
