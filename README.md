@@ -6,7 +6,7 @@
 - ✨ [david / Dijkstra-Simulator](https://github.com/ambrosdavid/Dijkstra-Simulator)
 - ☀️ [david / GymApp](https://github.com/ambrosdavid/GymApp) 
 ### Currently working on:
-- Secret project with secret repositories :D but here is a very little sneak peek:
+- At the moment the project is private, will be available once deployed in production:
     <img src="aws schema.PNG" style= "width:80%" alt="missing img"/>
 
 <!---
