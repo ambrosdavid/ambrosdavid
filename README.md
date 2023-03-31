@@ -7,7 +7,7 @@
 - ☀️ [david / GymApp](https://github.com/ambrosdavid/GymApp) 
 ### Currently working on:
 This is my biggest accomplishment ever, please take a look at it!
-- 👀 (03/2023) Happy to announce that I am Founder and CEO of: [david / EventMap](https://github.com/ambrosdavid/EventMap)!
+- 👀 (03/2023) Happy to announce that I have founded: [david / EventMap](https://github.com/ambrosdavid/EventMap)!
 
 
 
